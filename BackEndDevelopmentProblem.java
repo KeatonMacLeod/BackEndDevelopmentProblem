@@ -112,7 +112,7 @@ public class BackEndDevelopmentProblem {
         		}
         	}
         }
-        
+    
         if (biggestOrderId == -1)
         	moreOrders = false;
         else
@@ -140,18 +140,3 @@ public class BackEndDevelopmentProblem {
   }//main
   
 }//BackEndDevelopmentProblem
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
